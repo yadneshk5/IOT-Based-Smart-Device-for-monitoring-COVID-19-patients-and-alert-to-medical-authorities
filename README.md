@@ -1,0 +1,2 @@
+# IOT-Based-Smart-Device-for-monitoring-COVID-19-patients-and-alert-to-medical-authorities
+This is combined solution used to monitor the patient remotely in convenient manner to alert and notify the medical authorities in case of emergency and on violation of self-quarantine rules. This system can be made compulsory in schools, colleges &amp; at public transport where there are maximum chances of infection.
